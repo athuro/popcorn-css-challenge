@@ -21,6 +21,16 @@ button {
     color: white;
     font-size: 20px;
     font-weight: bold;
+    margin: 30px;
+}
+
+
+#binbutton{
+    position: relative;
+    left: 50%;
+    bottom: 10%;
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
 }
 
 .bin{
